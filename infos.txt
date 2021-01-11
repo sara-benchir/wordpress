@@ -1,0 +1,13 @@
+wordpress.org
+
+
+base de données :
+nom : wordpress
+identifiant : root
+mdp : 
+adress : localhost
+prefixe : wp_
+
+SITE
+identifiant : Sara
+mdp : lepoles2020
